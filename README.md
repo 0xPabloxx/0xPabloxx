@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 My personal blog: https://yc-2027.github.io/
+
+Focusing on AI agents and RAG!
