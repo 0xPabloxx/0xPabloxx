@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!-- README.md -->
 
-# 🌟 About Me
-I’m currently working as a multi-agent development intern at an AI startup, focusing on advanced work with  
+### 🌟 About Me
+* I’m currently working as a multi-agent development intern at an AI startup, focusing on advanced work with  
 **RAGFlow**, **LangGraph**, and **LangChain**.
 
 My personal blog: https://yc-2027.github.io/ 
@@ -29,6 +29,7 @@ The topics of this blog include:
 * Fine-tuning
 * Search and recommendation systems
 * Backend development
+* contact me via augustuschen00@gmail.com
 
 ---
 
@@ -54,8 +55,4 @@ The topics of this blog include:
 - **Python · LangChain · LangGraph · Ragflow · Deep Research · Vector DB**
 - **Java · SpringBoot · MQ · Micro Service · Redis · MySQL**
 
----
 
-## 🤝 联系我 | Get in Touch
-- **GitHub Issues** / Discussions  
-- **Email**: `augustuschen00@gmail.com`
