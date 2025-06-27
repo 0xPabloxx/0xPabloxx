@@ -59,6 +59,3 @@ The topics of this blog include:
 ## 🤝 联系我 | Get in Touch
 - **GitHub Issues** / Discussions  
 - **Email**: `augustuschen00@gmail.com`
-
-> 欢迎 Star、Fork 与交流！  
-> Pull requests, issues, and feedback are always welcome.  
