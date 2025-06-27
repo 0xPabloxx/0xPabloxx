@@ -23,8 +23,8 @@ CS MS@UTokyo
 I’m currently working as a multi-agent development intern at an AI startup, focusing on advanced work with  
 **RAGFlow**, **LangGraph**, and **LangChain**.
 
+My personal blog: https://yc-2027.github.io/ 
 
-My personal blog: https://yc-2027.github.io/
 The topics of this blog include:
 * Multi-agent systems
 * RAGFlow  
