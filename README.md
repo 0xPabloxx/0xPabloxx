@@ -53,9 +53,8 @@ The topics of this blog include:
 
 ## 🚀 技术栈 | Tech Stack
 
-- **LangChain · LangGraph · Ragflow · Deep Research**
-- **FAISS · pgVector · Redis · MySQL**
-- **Java · SpringBoot · MQ · Micro Service**
+- **Python · LangChain · LangGraph · Ragflow · Deep Research · Vector DB**
+- **Java · SpringBoot · MQ · Micro Service · Redis · MySQL**
 
 ---
 
