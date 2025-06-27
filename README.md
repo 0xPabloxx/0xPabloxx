@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <!-- README.md -->
 
 # 🌟 About Me
-CS MS@UTokyo
-
 I’m currently working as a multi-agent development intern at an AI startup, focusing on advanced work with  
 **RAGFlow**, **LangGraph**, and **LangChain**.
 
