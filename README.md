@@ -15,15 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My personal blog: https://yc-2027.github.io/
-
 <!-- README.md -->
 
 # 🌟 关于我 | About Me
-我是一名 **后端 / AI 多智能体（Multi-Agent）开发实习生**，目前专注于  
-RAGFlow 、LangGraph 及 LangChain 生态的二次开发与落地实践。  
-I’m a **backend & AI multi-agent development intern**, focusing on advanced work with  
+CS MS@UTokyo
+
+I’m currently working as a multi-agent development intern at an AI startup, focusing on advanced work with  
 **RAGFlow**, **LangGraph**, and **LangChain**.
+
+
+My personal blog: https://yc-2027.github.io/
+The topics of this blog include:
+* Multi-agent systems
+* RAGFlow  
+* Fine-tuning
+* Search and recommendation systems
+* Backend development
 
 ---
 
@@ -46,7 +53,7 @@ I’m a **backend & AI multi-agent development intern**, focusing on advanced wo
 
 ## 🚀 技术栈 | Tech Stack
 
-- **LangChain · LangGraph · RAGFLOW · Deep Research**
+- **LangChain · LangGraph · Ragflow · Deep Research**
 - **FAISS · pgVector · Redis · MySQL**
 - **Java · SpringBoot · MQ · Micro Service**
 
@@ -54,7 +61,7 @@ I’m a **backend & AI multi-agent development intern**, focusing on advanced wo
 
 ## 🤝 联系我 | Get in Touch
 - **GitHub Issues** / Discussions  
-- **Email**: `yourname@example.com`
+- **Email**: `augustuschen00@gmail.com`
 
 > 欢迎 Star、Fork 与交流！  
 > Pull requests, issues, and feedback are always welcome.  
