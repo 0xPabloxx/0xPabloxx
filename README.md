@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- README.md -->
 
-# 🌟 关于我 | About Me
+# 🌟 About Me
 CS MS@UTokyo
 
 I’m currently working as a multi-agent development intern at an AI startup, focusing on advanced work with  
