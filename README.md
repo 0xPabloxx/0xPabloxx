@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ### 🌟 About Me
 * 🔭 I’m currently working as a multi-agent development intern at an AI startup.
 * 📬 Contact me via augustuschen00@gmail.com
-* 🛠️  实习期间承担的工作 | What I’m Working On
+* 🎯 All in AI Agent.
+* 🛠️ What I’m Working On
   
 | 中文 | English |
 | --- | --- |
