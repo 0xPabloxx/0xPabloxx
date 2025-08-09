@@ -33,10 +33,3 @@ The topics of this blog include:
 * Search and recommendation systems
 * Backend development
 
-
-### 🚀 Tech Stack
-
-- **Python · LangChain · LangGraph · Ragflow · Deep Research · Vector DB**
-- **Java · SpringBoot · MQ · Micro Service · Redis · MySQL**
-
-
