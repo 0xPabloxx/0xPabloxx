@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * 📬 Contact me via augustuschen00@gmail.com
 
 
-### 📕 My personal blog:  https://yc-2027.github.io/ 
+### ([📕 My personal blog](https://yc-2027.github.io/))
 
 The topics of this blog include:
 * Source Code Analysis of LangChain LangGraph
