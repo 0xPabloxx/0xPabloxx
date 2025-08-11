@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <!-- README.md -->
 
 ### 🌟 About Me
-* 🔭 CS master student @UTokyo IST, currently working on Multi-Agent development at an AI startup.
-* 🎯 All in AI Agents.
+* 🔭 CS MS @UTokyo IST, currently an Agent Development Intern at an AI startup.
+* 🎯 Focusing on AI agents
 * 📬 Contact me via augustuschen00@gmail.com
 
 
 ### [📕 My personal blog](https://yc-2027.github.io/)
 
 The topics of this blog include:
-* Source Code Analysis of LangChain LangGraph
+* Experience and learning notes on Multi-Agent system development and design
 * Analysis of the source code and design philosophy of outstanding open-source projects
 * Learning Notes on Reinforcement Learning and Fine-Tuning  
 * Agent Practice in Search, Advertising, and Recommendation Systems
