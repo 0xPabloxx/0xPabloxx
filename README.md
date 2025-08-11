@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+emojis: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 -->
 
 <!-- README.md -->
 
 ### 🌟 About Me
-* 🔭 CS MS @UTokyo IST, currently an Agent Development Intern at an AI startup.
-* 🎯 Focusing on AI agents
+* 🎓 CS MS @UTokyo IST
+* 🔭 Currently an Agent Development Intern at an AI startup
+* 🔬 Focusing on AI agents
 * 📬 Contact me via augustuschen00@gmail.com
 
 
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 The topics of this blog include:
 * Experience and learning notes on Multi-Agent system development and design
-* Analysis of the source code and design philosophy of outstanding open-source projects
+* Analysis of the source code and design of outstanding open-source projects
 * Learning Notes on Reinforcement Learning and Fine-Tuning  
 * Agent Practice in Search, Advertising, and Recommendation Systems
 
