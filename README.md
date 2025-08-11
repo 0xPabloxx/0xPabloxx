@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- README.md -->
 
 ### 🌟 About Me
-* 🔭 CS master student@UTokyo IST, currently working on Multi-Agent development at an AI startup.
+* 🔭 CS master student @UTokyo IST, currently working on Multi-Agent development at an AI startup.
 * 🎯 All in AI Agents.
 * 📬 Contact me via augustuschen00@gmail.com
 
