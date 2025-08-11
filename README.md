@@ -18,18 +18,16 @@ Here are some ideas to get you started:
 <!-- README.md -->
 
 ### 🌟 About Me
-* 🔭 I’m currently working as a multi-agent development intern at an AI startup.
-* 🎯 All in AI agents.
+* 🔭 CS master student@UTokyo IST, currently working on Multi-Agent development at an AI startup.
+* 🎯 All in AI Agents.
 * 📬 Contact me via augustuschen00@gmail.com
 
 
 ### 📕 My personal blog:  https://yc-2027.github.io/ 
 
 The topics of this blog include:
-* Learning agents from scratch.
-* Multi-agent systems
-* RAGFlow  
-* Fine-tuning
-* Search and recommendation systems
-* Backend development
+* Source Code Analysis of LangChain LangGraph
+* Analysis of the source code and design philosophy of outstanding open-source projects
+* Learning Notes on Reinforcement Learning and Fine-Tuning  
+* Agent Practice in Search, Advertising, and Recommendation Systems
 
