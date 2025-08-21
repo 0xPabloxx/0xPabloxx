@@ -1,4 +1,4 @@
-[中文](#中文) | [English](#awesome-ai-agents)
+[中文](https://github.com/yc-2027/yc-2027/blob/main/ZH_CN_README.md) | [English](#awesome-ai-agents)
 ## Hi there 👋
 
 <!--
