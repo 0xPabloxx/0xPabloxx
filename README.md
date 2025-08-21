@@ -20,13 +20,13 @@ emojis: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 <!-- README.md -->
 
 ### 🌟 About Me
-* 🎓 CS MS @UTokyo IST
+* 🎓 CS M.S. @UTokyo IST
 * 🔭 Currently an Agent Development Intern at an AI startup
-* 🔬 Focusing on AI agents (Agentic LLM, Architechture, End-to-End RL, etc.)
+* 🔬 Focusing on AI agents (Agentic LLMs, architecture and end-to-end RL)
 * 📬 Contact me via augustuschen00@gmail.com
 
 
-### [📕 My personal blog updates](https://yc-2027.github.io/)
-* Open Source Agent Project 01-JDJoyAgent-JDGenie [2025/8/22]
+### [📕Updates on my personal blogs](https://yc-2027.github.io/)
+* Open-Source Agent Project 01: JDJoyAgent-JDGenie [2025/8/22]
 
 
