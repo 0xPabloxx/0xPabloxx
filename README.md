@@ -1,3 +1,4 @@
+[中文](#中文) | [English](#awesome-ai-agents)
 ## Hi there 👋
 
 <!--
