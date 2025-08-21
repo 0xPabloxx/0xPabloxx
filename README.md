@@ -25,11 +25,7 @@ emojis: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 * 📬 Contact me via augustuschen00@gmail.com
 
 
-### [📕 My personal blog](https://yc-2027.github.io/)
+### [📕 My personal blog updates](https://yc-2027.github.io/)
+* Open Source Agent Project 01-JDJoyAgent-JDGenie [2025/8/22]
 
-The topics of this blog include:
-* Experience and learning notes on Multi-Agent system development and design
-* Analysis of the source code and design of outstanding open-source projects
-* Learning Notes on Reinforcement Learning and Fine-Tuning  
-* Agent Practice in Search, Advertising, and Recommendation Systems
 
