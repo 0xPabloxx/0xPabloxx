@@ -5,5 +5,5 @@
 * 📬 联系方式：augustuschen00@gmail.com
 
 ### [📕 个人博客更新](https://yc-2027.github.io/)
-* 开源智能体项目 01：JDJoyAgent-JDGenie [2025/8/22]
+* [开源智能体项目 01：JDJoyAgent-JDGenie](https://yc-2027.github.io/posts/2025/08/22/Open-Source-Agent-Project-01-JDJoyAgent-JDGenie.html) [2025/8/22]
 
