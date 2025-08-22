@@ -27,6 +27,6 @@ emojis: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 
 
 ### [📕Updates on my personal blogs](https://yc-2027.github.io/)
-* Open-Source Agent Project 01: JDJoyAgent-JDGenie [2025/8/22]
+* [Open-Source Agent Project 01: JDJoyAgent-JDGenie][2025/8/22](https://yc-2027.github.io/)
 
 
