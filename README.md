@@ -20,9 +20,7 @@ emojis: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 <!-- README.md -->
 
 ### 🌟 About Me
-* 🎓 CS M.S. @UTokyo IST
-* 🔭 Currently an Agent Development Intern at an AI startup
-* 🔬 Focusing on AI agents (Agentic RL，Multi-Agent system)
+* 🔬 Focusing on AI agents (Agentic RL，Code Agent, Deep Research)
 * 📬 Contact me via augustuschen00@gmail.com
 
 
