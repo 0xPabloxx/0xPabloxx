@@ -19,6 +19,7 @@ emojis: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 <!-- README.md -->
 
 ### 🌟 About Me
+* 💻 Previously interned at Stocki.ai.
 * 🔬 Focusing on AI agents (Agentic RL，Code Agent, Deep Research)
 * 📬 Contact me via augustuschen00@gmail.com
 
