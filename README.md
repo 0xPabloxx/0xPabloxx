@@ -20,7 +20,7 @@ emojis: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 
 ### 🌟 About Me
 * 💻 Currently interning @[Dify](https://github.com/langgenius/dify/), previously interned @[Stocki.ai](https://stocki.ai/copilot).
-* 🔬 Focusing on AI agents (Agentic RL，Code Agent, Deep Research)
+* 🔬 Focusing on AI agents (Agentic RL, Code Agent, Deep Research)
 * 📬 Contact me via augustuschen00@gmail.com
 
 
