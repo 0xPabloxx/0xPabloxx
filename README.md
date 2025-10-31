@@ -24,7 +24,7 @@ emojis: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 * 📬 Contact me via augustuschen00@gmail.com
 
 
-### [📕  Updates on my personal blogs](https://pablochen.notion.site/Pablo-s-Blog-28843e104f73808b986bde032d979e56)
+### [📕  Updates on my personal blogs](https://0xpablo.notion.site/me)
 * [Open-Source Agent Project 03: DeerFlow](https://yc-2027.github.io/posts/2025/09/08/Open-Source-Agent-Project-03-DeerFlow.html)[2025/09/08]
 * [Open-Source Agent Project 02: JDJoyAgent-JDGenie](https://yc-2027.github.io/posts/2025/08/22/Open-Source-Agent-Project-02-JDJoyAgent-JDGenie.html)[2025/08/22]
 
