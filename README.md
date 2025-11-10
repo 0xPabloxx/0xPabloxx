@@ -1,4 +1,4 @@
-[中文](https://github.com/yc-2027/yc-2027/blob/main/ZH_CN_README.md) | [English](#awesome-ai-agents)
+[中文](https://github.com/0xPabloxx/0xPabloxx/blob/main/ZH_CN_README.md) | [English](https://github.com/0xPabloxx/0xPabloxx/blob/main/README_EN.md)
 
 <!--
 **Omari-00/Omari-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
