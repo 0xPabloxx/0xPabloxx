@@ -1,9 +1,6 @@
 ### 🌟 关于我
-* 🎓 东京大学信息理工学系研究科 计算机科学 硕士
-* 🔭 目前在一家 AI 创业公司做Agent开发实习
-* 🔬 专注于 AI Agent（Agentic LLMs、Multi-Agent、端到端强化学习等）
+* 💻 目前在 @[Dify](https://github.com/langgenius/dify/) 实习，此前曾在 @[Stocki.ai](https://stocki.ai/copilot) 实习
+* 🔬 专注于 AI Agents（Agentic RL、代码智能体、Deep Research）
 * 📬 联系方式：augustuschen00@gmail.com
-
-### [📕 个人博客更新](https://yc-2027.github.io/)
-* [开源智能体项目 01：JDJoyAgent-JDGenie](https://yc-2027.github.io/posts/2025/08/22/Open-Source-Agent-Project-01-JDJoyAgent-JDGenie.html) [2025/8/22]
+* 📓 个人博客：https://0xpablo.notion.site/me
 
